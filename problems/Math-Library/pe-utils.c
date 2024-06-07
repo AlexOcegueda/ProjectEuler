@@ -9,3 +9,8 @@ int power(int x, int exponent) {
 
     return result;
 }
+
+int nextPrime(int x) {
+    x = x + 1;
+    return x;
+}

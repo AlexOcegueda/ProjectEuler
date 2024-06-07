@@ -4,4 +4,6 @@
 // Function declarations
 int power(int x, int exponent);
 
+int nextPrime(int x);
+
 #endif
