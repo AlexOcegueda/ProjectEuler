@@ -3,6 +3,7 @@
 #include <stdio.h>
 
 int main() {
+    
     long long target = 600851475143;
     long long prime = 2;
     bool keepLooping = true;
