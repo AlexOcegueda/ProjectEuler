@@ -20,7 +20,7 @@ clean:
 	rm -f program $(PROBLEM_OBJS) $(UTILS_OBJS)
 
 help:
-	@echo "Usage: make build PROBLEM_NAME=problem-3/Largest-Prime-Factor PROBLEM_SRC=problem-3/Largest-Prime-Factor.c"
+	@echo "Usage: make build PROBLEM_NAME=problem-7/10001-Prime PROBLEM_SRC=problem-7/10001-Prime.c"
 	@echo "Example: make build PROBLEM_NAME=problem-2/some-problem-2 PROBLEM_SRC=problem-2/some-problem-2.c"
 
 .PHONY: all clean help build
