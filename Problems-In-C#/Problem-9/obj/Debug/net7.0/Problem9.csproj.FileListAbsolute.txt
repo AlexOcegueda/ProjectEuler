@@ -1,0 +1,14 @@
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-9/bin/Debug/net7.0/Problem9
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-9/bin/Debug/net7.0/Problem9.deps.json
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-9/bin/Debug/net7.0/Problem9.runtimeconfig.json
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-9/bin/Debug/net7.0/Problem9.dll
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-9/bin/Debug/net7.0/Problem9.pdb
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-9/obj/Debug/net7.0/Problem9.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-9/obj/Debug/net7.0/Problem9.AssemblyInfoInputs.cache
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-9/obj/Debug/net7.0/Problem9.AssemblyInfo.cs
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-9/obj/Debug/net7.0/Problem9.csproj.CoreCompileInputs.cache
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-9/obj/Debug/net7.0/Problem9.dll
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-9/obj/Debug/net7.0/refint/Problem9.dll
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-9/obj/Debug/net7.0/Problem9.pdb
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-9/obj/Debug/net7.0/Problem9.genruntimeconfig.cache
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-9/obj/Debug/net7.0/ref/Problem9.dll
