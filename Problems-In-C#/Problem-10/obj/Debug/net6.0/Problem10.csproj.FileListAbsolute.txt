@@ -1,0 +1,14 @@
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-10/obj/Debug/net6.0/Problem10.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-10/obj/Debug/net6.0/Problem10.AssemblyInfoInputs.cache
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-10/obj/Debug/net6.0/Problem10.AssemblyInfo.cs
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-10/obj/Debug/net6.0/Problem10.csproj.CoreCompileInputs.cache
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-10/bin/Debug/net6.0/Problem10
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-10/bin/Debug/net6.0/Problem10.deps.json
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-10/bin/Debug/net6.0/Problem10.runtimeconfig.json
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-10/bin/Debug/net6.0/Problem10.dll
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-10/bin/Debug/net6.0/Problem10.pdb
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-10/obj/Debug/net6.0/Problem10.dll
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-10/obj/Debug/net6.0/refint/Problem10.dll
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-10/obj/Debug/net6.0/Problem10.pdb
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-10/obj/Debug/net6.0/Problem10.genruntimeconfig.cache
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-10/obj/Debug/net6.0/ref/Problem10.dll
