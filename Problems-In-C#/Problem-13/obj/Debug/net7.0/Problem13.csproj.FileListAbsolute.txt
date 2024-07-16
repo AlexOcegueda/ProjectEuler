@@ -1,0 +1,14 @@
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-13/obj/Debug/net7.0/Problem13.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-13/obj/Debug/net7.0/Problem13.AssemblyInfoInputs.cache
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-13/obj/Debug/net7.0/Problem13.AssemblyInfo.cs
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-13/obj/Debug/net7.0/Problem13.csproj.CoreCompileInputs.cache
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-13/bin/Debug/net7.0/Problem13
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-13/bin/Debug/net7.0/Problem13.deps.json
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-13/bin/Debug/net7.0/Problem13.runtimeconfig.json
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-13/bin/Debug/net7.0/Problem13.dll
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-13/bin/Debug/net7.0/Problem13.pdb
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-13/obj/Debug/net7.0/Problem13.dll
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-13/obj/Debug/net7.0/refint/Problem13.dll
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-13/obj/Debug/net7.0/Problem13.pdb
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-13/obj/Debug/net7.0/Problem13.genruntimeconfig.cache
+/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-13/obj/Debug/net7.0/ref/Problem13.dll
