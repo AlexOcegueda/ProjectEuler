@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-9/Problem9.csproj": {}
+    "/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-09/Problem9.csproj": {}
   },
   "projects": {
-    "/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-9/Problem9.csproj": {
+    "/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-09/Problem9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-9/Problem9.csproj",
+        "projectUniqueName": "/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-09/Problem9.csproj",
         "projectName": "Problem9",
-        "projectPath": "/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-9/Problem9.csproj",
+        "projectPath": "/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-09/Problem9.csproj",
         "packagesPath": "/home/alex/.nuget/packages/",
-        "outputPath": "/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-9/obj/",
+        "outputPath": "/home/alex/Documents/code/c/ProjectEuler/Problems-In-C#/Problem-09/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/alex/.nuget/NuGet/NuGet.Config"
