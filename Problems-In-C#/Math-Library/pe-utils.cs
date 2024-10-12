@@ -67,5 +67,51 @@ namespace MathLibrary
 
             return start;
         }
+
+        /*
+         * Function: isPalindrome
+         * ------------------------------
+         *  Returns bool on whether the number is a palindrome
+
+         *  str: Int number as a string
+         *
+         *  length: Length of string/number
+         *
+         *  mid: Middle of string length
+         *
+         *  firstHalf: First half of number
+         *
+         *  secondHalf: Second half of number 
+         */
+        public static bool isPalindrome(int number)
+        {
+            string str = number.ToString();
+            int length = str.Length;
+            int mid = length / 2;
+
+            string firstHalf = "";
+            string secondHalf = "";
+
+            // Handle single-digit numbers as a special case
+            if (length == 1) 
+            {
+                return true;
+            }
+
+            // Get the first half of the number
+            for (int i = 0; i < mid; i++)
+            {
+                firstHalf += str[i];
+            }
+
+            // Get the second half of the number (in reverse order)
+            // If the number has an odd number of digits, skip the middle one
+            for (int j = length - 1; j >= (length % 2 == 0 ? mid : mid + 1); j--)
+            {
+                secondHalf += str[j];
+            }
+
+            return firstHalf == secondHalf;
+        }
     }
 }
