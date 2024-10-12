@@ -2,8 +2,7 @@ using System;
 using System.Numerics;
 using MathLibrary;
 
-
-namespace ProjectEuler.Problems.Problem9
+namespace ProjectEuler.Problems.Problem10
 {
     class SummationOfPrimes
     {
