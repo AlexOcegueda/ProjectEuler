@@ -1,7 +1,7 @@
 using System;
 using System.Numerics;
 
-namespace ProjectEuler.Problems.Problem9
+namespace ProjectEuler.Problems.Problem14
 {
     class LongestCollatzSequence
     {
