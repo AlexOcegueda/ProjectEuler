@@ -7,12 +7,14 @@ Each solution can be ran by the Makefile for easy compilation and execution.
 
 ## Why I made this
 
-Made this to learn number theory with programming languages I rarely get to use. 
+Made this to learn number theory with programming languages I rarely get to use. While also getting to work with Makefiles.
 
 ## Languages Used
 
+- Python
 - C
 - C#
+- Go
 
 ## Favorite Problems
 
